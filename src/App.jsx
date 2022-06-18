@@ -55,7 +55,7 @@ function App() {
         </ParallaxLayer>
 
         <ParallaxLayer
-          offset={3}
+          offset={3.2}
           speed={2}
           onClick={() => ref.current.scrollTo(0)}
         >
